@@ -9,4 +9,7 @@
 ## 24-12-25
 
 - 注册了Github账号，了解markdown语法。
-- 
+
+## 24-12-26
+
+- machine learning 先导课
