@@ -12,4 +12,8 @@
 
 ## 24-12-26
 
-- machine learning 先导课
+- machine learning-先导课
+
+## 24-12-29
+
+- machine learning-线性回归
