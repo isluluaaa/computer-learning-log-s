@@ -17,3 +17,9 @@
 ## 24-12-29
 
 - machine learning-线性回归
+
+## 24-01-10
+
+- machine learning-线性回归中的损失
+
+
